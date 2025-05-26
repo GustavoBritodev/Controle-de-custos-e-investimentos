@@ -24,14 +24,10 @@ O projeto foi desenvolvido como parte de uma atividade acadêmica para demonstra
 ## 🧠 Algoritmos Aplicados
 
 - **Juros Compostos**:  
-  \[
-  M = P \cdot (1 + i)^n
-  \]
+  M = P × (1 + i)^n
 
 - **Média Ponderada**:  
-  \[
-  \text{Média} = \frac{\sum (valor \times peso)}{\sum pesos}
-  \]
+  Média = (Σ (valor × peso)) / Σ pesos
 
 ---
 
